@@ -10,7 +10,9 @@ function multiply(a,b){
 function divide(a,b){
   return (a/b)
 }
-
+function inc(a,b){
+  return (n)
+}
 
 function makeInt(n){
   return parseInt(n, 10)
