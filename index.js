@@ -1,0 +1,1 @@
+parseFloat(n, number)
