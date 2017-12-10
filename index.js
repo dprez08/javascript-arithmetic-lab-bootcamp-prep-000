@@ -1,1 +1,1 @@
-parseFloat(n, number)
+parseInt()
